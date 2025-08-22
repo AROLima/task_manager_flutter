@@ -1,6 +1,6 @@
-# primeiro_projeto
+# task manager
 
-primeiro projeto flutter
+task manager em flutter
 
 ## Getting Started
 
